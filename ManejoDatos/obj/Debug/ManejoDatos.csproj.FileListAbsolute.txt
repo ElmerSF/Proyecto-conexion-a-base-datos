@@ -1,0 +1,9 @@
+C:\Users\elmer\OneDrive\Documents\PROGRAMACIÓN AVANZADA\Tarea2_ElmerSalazar_304260158\ManejoDatos\bin\Debug\ManejoDatos.dll
+C:\Users\elmer\OneDrive\Documents\PROGRAMACIÓN AVANZADA\Tarea2_ElmerSalazar_304260158\ManejoDatos\bin\Debug\ManejoDatos.pdb
+C:\Users\elmer\OneDrive\Documents\PROGRAMACIÓN AVANZADA\Tarea2_ElmerSalazar_304260158\ManejoDatos\obj\Debug\ManejoDatos.csprojAssemblyReference.cache
+C:\Users\elmer\OneDrive\Documents\PROGRAMACIÓN AVANZADA\Tarea2_ElmerSalazar_304260158\ManejoDatos\obj\Debug\ManejoDatos.csproj.CoreCompileInputs.cache
+C:\Users\elmer\OneDrive\Documents\PROGRAMACIÓN AVANZADA\Tarea2_ElmerSalazar_304260158\ManejoDatos\obj\Debug\ManejoDatos.dll
+C:\Users\elmer\OneDrive\Documents\PROGRAMACIÓN AVANZADA\Tarea2_ElmerSalazar_304260158\ManejoDatos\obj\Debug\ManejoDatos.pdb
+C:\Users\elmer\OneDrive\Documents\PROGRAMACIÓN AVANZADA\Tarea2_ElmerSalazar_304260158\ManejoDatos\bin\Debug\Entidad_cajero_catego_prod.dll
+C:\Users\elmer\OneDrive\Documents\PROGRAMACIÓN AVANZADA\Tarea2_ElmerSalazar_304260158\ManejoDatos\bin\Debug\Entidad_cajero_catego_prod.pdb
+C:\Users\elmer\OneDrive\Documents\PROGRAMACIÓN AVANZADA\Tarea2_ElmerSalazar_304260158\ManejoDatos\obj\Debug\ManejoDatos.csproj.CopyComplete
